@@ -1,0 +1,12 @@
+data:
+  object_type: pipeline
+  object_uuid: yellow_taxi
+  outdated_after:
+    seconds: 1199
+  outdated_starting_at:
+    hour_of_day: 0
+  project: homework_03
+  repo_path: /workspaces/mlops-mage/mlops/homework_03
+  settings:
+    injest: {}
+    prepare: {}
